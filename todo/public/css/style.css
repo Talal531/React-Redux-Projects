@@ -1,0 +1,14 @@
+h2 {
+    margin: 0;
+    margin-bottom: 50px;
+    padding: 10px;
+    width: 100%;
+}
+
+a {
+    margin-right: 5px;
+}
+
+span {
+    cursor: pointer;
+}
